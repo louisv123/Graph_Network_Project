@@ -7,7 +7,8 @@ We have based our model on SIR model and we have tested our model with Graph Net
 # Code
 
 The folder Code gathers all python code to simulate flu epidemic on Graph network
-episim.py simulates a random graph with a SIR model 
+episim.py simulates a random graph with a SIR model.
+
 sir_comp.py and sir_subgraph.py is the code related to SIR Model.
 
 # Data
